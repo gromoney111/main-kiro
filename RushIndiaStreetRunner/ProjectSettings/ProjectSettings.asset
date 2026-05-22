@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  productName: Rush India Street Runner
+  companyName: RushIndiaGames
+  defaultInterfaceOrientation: 1
+  applicationIdentifier:
+    Android: com.rushindiastreetrunner.game
+  bundleVersion: 1.0.0
+  AndroidBundleVersionCode: 1
+  AndroidMinSdkVersion: 24
+  AndroidTargetSdkVersion: 34
+  scriptingBackend:
+    Android: 1
+  il2CppCompilerConfiguration:
+    Android: 2
+  architecture:
+    Android: 1
+  targetDevice: 1
+  stripEngineCode: 1
+  graphicsAPIs:
+    Android:
+    - OpenGLES3
+    - Vulkan
+  colorSpace: 1
+  qualitySettingsNames:
+  - Mobile_Low
+  - Mobile_Medium
+  - Mobile_High

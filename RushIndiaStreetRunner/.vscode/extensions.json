@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-dotnettools.csharp",
+    "ms-dotnettools.csdevkit",
+    "unity.unity-debug",
+    "kleber-swf.unity-code-snippets",
+    "tobiah.unity-tools"
+  ]
+}
